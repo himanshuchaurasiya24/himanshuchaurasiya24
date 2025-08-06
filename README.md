@@ -50,26 +50,13 @@
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshuchaurasiya24&show_icons=true&theme=material-palenight" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuchaurasiya24&theme=material-palenight" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuchaurasiya24&layout=compact&theme=material-palenight" width="40%" />
-</p>
-
-<!-- Custom Stats Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Stars-2-00A87E?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Total%20Commits%20(2025)-219-00A87E?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/Total%20PRs-0-00A87E?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Total%20Issues-2-00A87E?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Current%20Streak-1-orange?style=for-the-badge&logo=fire" />
-  <img src="https://img.shields.io/badge/Longest%20Streak-12-orange?style=for-the-badge&logo=flame" />
-</p>
-
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=himanshuchaurasiya24&show_icons=true&theme=highcontrast" alt="himanshuchaurasiya24 stats" /></td>
+<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuchaurasiya24&theme=highcontrast" alt="himanshuchaurasiya24 streak" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuchaurasiya24&layout=compact&theme=highcontrast" alt="top langs" /></td>
+</tr>
+</table>
 
 ---
 
@@ -82,4 +69,3 @@
   <a href="https://www.linkedin.com/in/himanshu-chaurasiya-88755a256/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://dribbble.com/himanshuchaurasiya24"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white"/></a>
 </p>
- 
