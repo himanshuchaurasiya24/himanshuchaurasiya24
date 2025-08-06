@@ -7,7 +7,7 @@
 
 ---
 
-## 🧑‍💻 Who Am I?
+## 🧑‍💻 Who Am I ?
 - 🎓 BCA Student at **UPES, Dehradun**
 - 📱 Focused on **Cross-Platform Apps (Flutter + Web)** using **Material 3 Design Principles**
 - ⚙️ Building **Lab & Diagnostic Management Systems (App + Web Dashboards)**
