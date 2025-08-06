@@ -47,19 +47,19 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshuchaurasiya24&show_icons=true&theme=material-palenight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuchaurasiya24&theme=material-palenight" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuchaurasiya24&layout=compact&theme=material-palenight" width="40%" />
+  <a href="https://github.com/himanshuchaurasiya24">
+    <img src="https://raw.githubusercontent.com/himanshuchaurasiya24/himanshuchaurasiya24/main/assets/github-stats-panel.png" alt="GitHub Stats Panel" width="90%">
+  </a>
 </p>
 
 ---
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://github.com/himanshuchaurasiya24"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/himanshu-chaurasiya-88755a256/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/_hc24"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://github.com/himanshuchaurasiya24"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://codepen.io/himanshuchaurasiya24"><img src="https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=codepen&logoColor=white"/></a>
   <a href="https://stackoverflow.com/users/16363729/himanshu-chaurasiya"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/himanshu-chaurasiya-88755a256/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://dribbble.com/himanshuchaurasiya24"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white"/></a>
 </p>
