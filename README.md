@@ -50,11 +50,26 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://github.com/himanshuchaurasiya24">
-    <img src="https://raw.githubusercontent.com/himanshuchaurasiya24/himanshuchaurasiya24/main/assets/github-stats-panel.png" alt="GitHub Stats Panel" width="90%">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshuchaurasiya24&show_icons=true&theme=material-palenight" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuchaurasiya24&theme=material-palenight" width="45%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuchaurasiya24&layout=compact&theme=material-palenight" width="40%" />
+</p>
+
+<!-- Custom Stats Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Stars-2-00A87E?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Commits%20(2025)-219-00A87E?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Total%20PRs-0-00A87E?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Issues-2-00A87E?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Current%20Streak-1-orange?style=for-the-badge&logo=fire" />
+  <img src="https://img.shields.io/badge/Longest%20Streak-12-orange?style=for-the-badge&logo=flame" />
+</p>
+
 
 ---
 
