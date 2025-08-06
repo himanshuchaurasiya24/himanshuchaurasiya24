@@ -1,97 +1,72 @@
+<h1 align="center">Hey there 👋, I'm Himanshu Chaurasiya</h1>
+<h3 align="center">Flutter Developer | Cross-Platform Enthusiast | Backend Learner</h3>
 
-<h1 align="center">Hello <br> I'm Himanshu Chaurasiya</h1>
-<h3 align="center">Learning Dart & Flutter for Cross-Platform App & Web Development</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=himanshuchaurasiya24&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="profile views" />
+</p>
 
-<table align="center" >
-<tr> 
-  <td>
-<p align="center">Pursuing BCA<br>
-UPES, Dehradun </p>
-    <p align="center"> <img src="https://komarev.com/ghpvc/?username=himanshuchaurasiya24&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="himanshuchaurasiya24" /> </p>
+---
 
-</td>
+## 🧑‍🎓 About Me
+- 🎓 Pursuing **Bachelor of Computer Applications (BCA)** at **UPES, Dehradun**
+- 📱 Passionate about **Cross-Platform Development** using **Dart & Flutter**
+- 💻 Previously worked with **Android Development (Java & XML)**
+- ⚡ Building **lab & diagnostic management apps** (App + Web)
+- 🛠️ Currently exploring **Backend APIs**, **Riverpod**, **JWT Auth**, and **State Management**
 
-<td>
-  
-- 🌱 I’m currently learning Dart & Flutter for App Development  
-- 🤹 Experience in Android Development using Java and xml  
-- ⚡ Fun fact: I use tabs over spaces  
-- 📫 How to reach me **himanshuchaurasiya24@gmail.com**
-  </td>
-  </tr>
-</table> 
+---
 
-<br/>  
- <h2 align="center">My Skill Set </h2>
-<table align="center"><tr>
-  
-<td valign="top" width="200">
-  <h3 align="center">Frontend</h3> 
-<div align="center">  
-
-<a href="https://www.xml.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/31053/xml.svg" alt="android" width="40" height="40"/> </a>
-
-</div>
-
-</td>
-<td valign="top" width="200">
-
-
-
-### <h3 align="center">Backend</h3> 
-<div align="center">  
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452234/java.svg" alt="java" width="40" height="40"/> </a> 
-</div>
-
-</td><td valign="top" width="200">
-
-
-
-###  <h3 align="center">Cross Platform</h3> 
-<div align="center">  
- <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
- <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## <h2 align="center">Connect with me </h2>
-<div align="center">
-<a href="https://instagram.com/_hc24" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/himanshuchaurasiya24" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://codepen.io/himanshuchaurasiya24" target="_blank">
-<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/16363729/himanshu-chaurasiya" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/himanshu-chaurasiya-88755a256/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://dribbble.com/himanshuchaurasiya24" target="_blank">
-<img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-<br/> 
-
-<table border="none"> 
+## 🚀 Tech Stack & Tools
+<table align="center">
 <tr>
-  <td valign="top" width="33%">
-<p><img align="left"  src="https://github-readme-stats.vercel.app/api?username=himanshuchaurasiya24&show_icons=true&locale=en&theme=highcontrast" alt="himanshuchaurasiya24" /></p>
-  </td><td valign="top" width="33%">
-<p><img align="right"  src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuchaurasiya24&theme=highcontrast" alt="himanshuchaurasiya24" /></p>
-  </td>  <td valign="top" width="33%">
-<p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshuchaurasiya24&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="himanshuchaurasiya24" /></p>
-  </td></tr>
+<td align="center" valign="top" width="200">
+  <strong>Frontend</strong><br/>
+  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
+  <a href="https://www.xml.com/" target="_blank"><img src="https://www.svgrepo.com/show/31053/xml.svg" alt="xml" width="40" height="40"/></a>
+</td>
+<td align="center" valign="top" width="200">
+  <strong>Backend & APIs</strong><br/>
+  <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://www.svgrepo.com/show/452234/java.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://www.svgrepo.com/show/303485/django-logo.svg" alt="django" width="40" height="40"/></a>
+</td>
+<td align="center" valign="top" width="200">
+  <strong>Tools & Others</strong><br/>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/></a>
+  <a href="https://ubuntu.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/></a>
+</td>
+</tr>
 </table>
 
+---
 
-  
+## 💡 Strengths
+- 🎯 **Problem Solver** — Analytical approach to break down UI and API logic.
+- 🔄 **Consistent Learner** — Hands-on with **state management (Riverpod)**, and constantly improving backend interaction.
+- 🎨 **UI-Focused** — Passion for clean, **Material 3 designs** with color consistency and responsiveness.
+- 🖥️ **Linux & System Enthusiast** — Enjoys experimenting with Ubuntu, kernel builds, automation scripts, and custom environments.
+- 🔐 **Secure Coding Practices** — Implementing token-based authentication (JWT) and best REST API patterns.
+
+---
+
+## 📈 GitHub Stats
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=himanshuchaurasiya24&show_icons=true&theme=highcontrast" alt="himanshuchaurasiya24 stats" /></td>
+<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuchaurasiya24&theme=highcontrast" alt="himanshuchaurasiya24 streak" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuchaurasiya24&layout=compact&theme=highcontrast" alt="top langs" /></td>
+</tr>
+</table>
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+<a href="https://instagram.com/_hc24" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://github.com/himanshuchaurasiya24" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://codepen.io/himanshuchaurasiya24" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>
+<a href="https://stackoverflow.com/users/16363729/himanshu-chaurasiya" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow" /></a>
+<a href="https://www.linkedin.com/in/himanshu-chaurasiya-88755a256/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://dribbble.com/himanshuchaurasiya24" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" /></a>
+</p>
