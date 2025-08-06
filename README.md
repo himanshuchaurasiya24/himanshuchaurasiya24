@@ -6,7 +6,7 @@
 <tr> 
   <td>
 <p align="center">Pursuing BCA<br>
-Indira Gandhi National Open University, New Delhi </p>
+UPES, Dehradun </p>
     <p align="center"> <img src="https://komarev.com/ghpvc/?username=himanshuchaurasiya24&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="himanshuchaurasiya24" /> </p>
 
 </td>
