@@ -28,9 +28,12 @@
 <tr>
   <td align="center" width="150"><b>VS Code</b><br><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40"/></td>
   <td align="center" width="150"><b>Ubuntu</b><br><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="40"/></td>
-  <td align="center" width="150"><b>Material 3</b><br><img src="https://material.io/static/images/patterns/ic_material_design.svg" width="40"/></td>
-  <td align="center" width="150"><b>JWT Auth</b><br><img src="https://www.vectorlogo.zone/logos/jsonwebtoken/jsonwebtoken-icon.svg" width="40"/></td>
-  <td align="center" width="150"><b>Linux CLI</b><br><img src="https://www.svgrepo.com/show/303229/bash-icon-logo.svg" width="40"/></td>
+  <td align="center" width="150"><b>Material 3</b><br><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/material-ui-light.svg" alt="Material 3" width="40" height="40"/>
+</td>
+  <td align="center" width="150"><b>JWT Auth</b><br><img src="https://img.icons8.com/ios-filled/50/000000/lock-2.png" alt="JWT Auth" width="40" height="40"/>
+</td>
+  <td align="center" width="150"><b>Linux CLI</b><br><img src="https://img.icons8.com/ios-filled/50/000000/console.png" alt="Linux CLI" width="40" height="40"/>
+</td>
 </tr>
 </table>
 
