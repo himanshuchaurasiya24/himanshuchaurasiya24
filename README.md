@@ -22,7 +22,8 @@
   <td align="center" width="150"><b>Flutter</b><br><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/></td>
   <td align="center" width="150"><b>Dart</b><br><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/></td>
   <td align="center" width="150"><b>Riverpod</b><br><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40"/></td>
-  <td align="center" width="150"><b>Django</b><br><img src="https://www.svgrepo.com/show/303485/django-logo.svg" width="40"/></td>
+  <td align="center" width="150"><b>Django</b><br><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="40" height="40"/>
+</td>
   <td align="center" width="150"><b>Git</b><br><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></td>
 </tr>
 <tr>
